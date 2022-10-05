@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Sans-serif;
+}
+
+div#paint {
+    border: 1px solid black;
+    width: 100vw;
+    height: 40vh;
+}
+
+canvas#paintCanvas {
+    border: 1px solid black;
+    width: 100vw;
+    height: 40vh;
+}
+
+td.colorSelection {
+    width: 1.5em;
+    height: 1.5em;
+}
